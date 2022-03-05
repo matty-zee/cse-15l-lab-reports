@@ -4,12 +4,12 @@
 [The markdown-parse we reviewed](https://github.com/JessalynWang/markdown-parse)
 
 ### Expected Outputs for each Snippet
-1. Snippet 1 - `[google.com, google.com, ucsd.edu]`
-2. Snippet 2 - `[a.com, a.com(()), example.com]`
-3. Snippet 3 - `[https://www.twitter.com, https://ucsd-cse15l-w22.github.io/, https://cse.ucsd.edu/]`
+1. Snippet 1 (%60 represents the \` character) - `["%60google.com"]` 
+3. Snippet 2 - `[a.com, a.com(()), example.com]`
+4. Snippet 3 - `[https://www.twitter.com, https://ucsd-cse15l-w22.github.io/, https://cse.ucsd.edu/]`
 
 ### Added JUnit Tests
-![image](testSnippet.png)
+![image](testSnippet2.png)
 
 ### Testing our implementation
 ![image](mytests.png)
