@@ -3,6 +3,11 @@
 [My group's markdown-parse](https://github.com/matty-zee/markdown-parse.git)
 [The markdown-parse we reviewed](https://github.com/JessalynWang/markdown-parse)
 
+### Expected Outputs for each Snippet
+1. Snippet 1 - `[google.com, google.com, ucsd.edu]`
+2. Snippet 2 - `[a.com, a.com(()), example.com]`
+3. Snippet 3 - `[https://ucsd-cse15l-w22.github.io/]`
+
 ### Added JUnit Tests
 ![image](snippetTests.png)
 
