@@ -9,7 +9,7 @@
 3. Snippet 3 - `[https://www.twitter.com, https://ucsd-cse15l-w22.github.io/, https://cse.ucsd.edu/]`
 
 ### Added JUnit Tests
-![image](snippetTests.png)
+![image](testSnippet.png)
 
 ### Testing our implementation
 ![image](mytests.png)
